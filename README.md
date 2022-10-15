@@ -1,2 +1,1 @@
-# automating-gis-processes.github.io
-Redirects to the latest version of the course pages
+Redirects to [autogis-site.readthedocs.io](https://autogis-site.readthedocs.io).
